@@ -1,0 +1,51 @@
+Variables :
+
+-   sequence = [ ]
+        Rôle : stocker dans l'ordre la séquences de couleur.
+        Type : int
+        1  R , 2  G , 3  B , 4  Y
+
+-   Saisie_user :
+        Type : int
+
+-   Nb_ essais:
+        Type : int
+
+-   screen :
+        Rôle : afficher la fenêtre et définir ces dimensions.
+
+-   icon :
+        Rôle : changer l’icône de la fenêtre.
+
+-   fond :
+        Rôle : Afficher un fond a l’image.
+
+-   simon :
+        Rôle : permet d’afficher le Simon.
+
+-   rect :
+        Rôle : permet de centrer le Simon.
+
+-   (couleur) : 
+        Rôle : Permet d’allumer les lumières du Simon.
+
+-   (couleur)_rect : 
+        Rôle : Permet de changer position de la lumière et d’allumer les lumières du Simon qd on clique sur la couleur en question.
+
+-   Start_time_(couleur), current_time, duration :
+        Rôle : Permet d’allumer les lumière du Simon pour une durée déterminé.
+        Type : int
+
+-   clock :
+        Rôle : Permet de régler la vitesse du jeu.
+
+-   affichage_sequence :
+        Rôle : Indique si la séquence doit être montrée.
+
+-   Position_sequence :
+        Rôle : Position actuelle dans la séquence.
+
+-   delai_entre_couleur :
+        Rôle : permet de mettre un délai entre les couleurs.
+
+
