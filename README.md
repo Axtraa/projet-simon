@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/0c4b6a3e-d822-4a38-adc6-72ced3229b66" width="1024">
+
 # Projet Python : Jeu Simon
 
 Ce projet est une implémentation du jeu de société Simon, développé en Python dans le cadre d'un projet scolaire au lycée.
